@@ -6,3 +6,5 @@ Currently being used as a repository for small additions made for use with anoth
 Currently, To install, take the files and place them into your game directory FinalFantasyXI/ROM/0
 
 Doing so will add the three different themes to window(s) #2, #4, and #6 when switching in-game via the 'Windows' tab under CONFIG/WINDOWS/SHARED.
+
+![Screenshot](images/Windows.png)
