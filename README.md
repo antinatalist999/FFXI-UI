@@ -7,4 +7,4 @@ Currently, To install, take the files and place them into your game directory Fi
 
 Doing so will add the three different themes to window(s) #2, #4, and #6 when switching in-game via the 'Windows' tab under CONFIG/WINDOWS/SHARED.
 
-![Screenshot](images/Windows.png)
+![Screenshot](images/windows.png)
